@@ -3,5 +3,6 @@
 
 #include <string>
 #include "LED.h"
+#include "PAD.h"
 
 #endif
