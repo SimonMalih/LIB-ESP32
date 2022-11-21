@@ -1,7 +1,7 @@
 #ifndef CUSTOMLIBRARY_H
 #define CUSTOMLIBRARY_H
 
-#include <string>
+#include "SETUP.H"
 #include "LED.h"
 
 #endif
